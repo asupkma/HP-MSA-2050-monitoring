@@ -41,4 +41,7 @@ status-ses-numeric = "number(/PROPERTY[@name='status-ses-numeric'])"
 ```
 Then use grafana dashboard from influx data source
 
+# Referencies
+HP MSA2050 XML https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-a00017709en_us
+
 Best regards, Maxim Kisselyov
