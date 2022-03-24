@@ -1,7 +1,8 @@
 # HP-MSA-2050-monitoring
 HP MSA 2050 monitoring via bash telegraf influx grafana
 # Installation
-`get_xml_from_msa.sh` to get xml from MSA
+`get_xml_from_msa.sh` to get xml from MSA.
+
 Edit telegraf.conf with
 ```
 [[inputs.file]]
