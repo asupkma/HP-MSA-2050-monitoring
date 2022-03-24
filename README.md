@@ -39,3 +39,5 @@ speed = "number(/PROPERTY[@name='speed'])"
 status-ses-numeric = "number(/PROPERTY[@name='status-ses-numeric'])"
 ```
 Then use grafana dashboard from influx data source
+
+Best regards, Maxim Kisselyov
